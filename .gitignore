@@ -1,0 +1,9 @@
+# Notes Files
+notes.txt
+
+# Tester Files
+*.pdf
+*.docx
+
+# Program Files
+a.out
