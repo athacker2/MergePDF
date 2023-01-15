@@ -7,3 +7,6 @@ notes.txt
 
 # Program Files
 a.out
+
+# IDE / Misc Files
+.DS_Store
